@@ -24,3 +24,5 @@ se la dedico a mis perros coffy y mashi
 tambien a mi difunto perro canelo (que descanses en paz)
 
 y a mis maestros(stackoverflow,google,un grupo de facebook,libros en .pdf,YouTube y mis ganas de aprender.)
+
+![Alt text](https://github.com/BarbatosRE/Ejercicio-2/blob/master/ejer2.jpg?raw=true "Title")
