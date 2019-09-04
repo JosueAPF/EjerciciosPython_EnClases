@@ -1,4 +1,5 @@
 [![Build Status](https://img.shields.io/badge/Python-3.7-green?logo=python)]()
+[![Build Status](https://img.shields.io/badge/colorama-3.7-gray?logo=python)]()
 [![Build Status](https://img.shields.io/badge/Ejercicio-2-red?logo=git)]()
 [![Build Status](https://img.shields.io/badge/Build-VSC-Violet?logo=visual-studio-code)]()
 # Ejercicio No.2
