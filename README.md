@@ -16,11 +16,6 @@
 
 Es una simple script la cual se conforma de un menu(index.py)dentro de esta estan almacenadas las funciones de lista,tupla y diccionario.ordenadas con for con su respectivo menu hecho con while .
 
------------------------------------------------------------------------------------------------------------------------
 
-
-tambien a mi difunto perro canelo (que descanses en paz)
-
-y a mis maestros(stackoverflow,google,un grupo de facebook,libros en .pdf,YouTube y mis ganas de aprender.)
 
 ![Alt text](https://github.com/BarbatosRE/Ejercicio-2/blob/master/ejer2.jpg?raw=true "Title")
